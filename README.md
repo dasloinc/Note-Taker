@@ -13,7 +13,7 @@ A application that is used to write, save, and delete notes.
 AS A user, I want to be able to write and save notes I WANT to be able to delete notes I've written before SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Repository:
-https://github.com/dasloinc/note-taker
+https://dasloinc.github.io/Note-Taker/
 
 ## Requirements:
 Node: Node.js will be need to run the application which is available to install from here. NPM will be required to install the necessary packages to run the application.
@@ -27,7 +27,7 @@ Node: Node.js will be need to run the application which is available to install 
 ### Using the Application:
 In your terminal run the following commands one at a time:
 
-- git clone https://github.com/dasloinc/note-taker
+- git clone https://dasloinc.github.io/Note-Taker/
 - cd Note-Taker
 - npm install
 
