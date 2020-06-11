@@ -16,7 +16,7 @@ AS A user, I want to be able to write and save notes I WANT to be able to delete
 https://github.com/dasloinc/note-taker
 
 ## Requirements:
-Node: Node.js will be need to run the application which is available to install from here. NPM will be required to all you to install the necessary packages to run the application.
+Node: Node.js will be need to run the application which is available to install from here. NPM will be required to install the necessary packages to run the application.
 
 ## NPM Packages:
 - File System
