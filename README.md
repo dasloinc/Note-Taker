@@ -31,6 +31,9 @@ In your terminal run the following commands one at a time:
 - cd Note-Taker
 - npm install
 
+#### Deployed:
+heroku https://xpress-note-taker.herokuapp.com/
+
 ##### Once the steps are completed and the npm packages have been installed continue with:
 - node server.js
 - Head to your browser and in the address bar type: http://localhost:3000/
